@@ -1,1 +1,3 @@
-# EECS731-Project4
+## EECS731 Project4 - Major Leagues
+
+In this project, I perform regression on a given dataset of previous NBA games with the goal of predicting the points scored in future games. In particular, I look at the history each current NBA franchise and use features from previous games such as points scored, the forecast for each game, and whether the game was played at home or not. In the end, I find that all of the regression models are able to achieve relatively good performance, but that some are able to more consistently achieve better results and are, thus, more prefereable for predicting future game scores.
